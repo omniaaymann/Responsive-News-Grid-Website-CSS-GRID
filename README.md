@@ -1,0 +1,1 @@
+Responsive News Website Implemented Using Pure CSS only. Layout is done using CSS GRID.
